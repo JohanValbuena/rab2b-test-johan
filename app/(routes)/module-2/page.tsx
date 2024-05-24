@@ -4,6 +4,7 @@ import ImagesCollage from '@/app/ui/organism/images-collage/images-collage';
 import TextModuleTwo from '@/app/ui/organism/text-module-two/text-module-two';
 import { TextModuleTwoProps } from '@/app/lib/definitions';
 export default async function Page() {
+    await new Promise((resolve) => setTimeout(resolve, 5000));
     const data = await fetchDataModuleTwo()
     const moduleTwoProps: TextModuleTwoProps = {
         title: data?.title,
