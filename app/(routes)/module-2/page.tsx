@@ -1,5 +1,3 @@
-'use client';
-
 import { fetchDataModuleTwo } from '@/app/lib/data';
 import styles from './page.module.scss';
 import ImagesCollage from '@/app/ui/organism/images-collage/images-collage';
