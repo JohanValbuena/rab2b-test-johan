@@ -1,5 +1,3 @@
-import { unstable_noStore as noStore } from 'next/cache';
-
 export async function fetchDataModuleOne(){
     try {
         const data = await import('@/app/utils/mocks/page-one.json');
@@ -12,7 +10,6 @@ export async function fetchDataModuleOne(){
 }
 
 export async function fetchDataModuleTwo(){
-    noStore();
     try {
         // artificial delay
         await new Promise((resolve) => setTimeout(resolve, 2000));
