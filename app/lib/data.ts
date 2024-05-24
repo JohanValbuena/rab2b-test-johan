@@ -17,7 +17,7 @@ export async function fetchDataModuleTwo(){
     noStore();
     try {
         // artificial delay
-        await new Promise((resolve) => setTimeout(resolve, 2000));
+        await new Promise((resolve) => setTimeout(resolve, 1000));
 
         const data = await import('@/app/utils/mocks/page-two.json');
         return data;
