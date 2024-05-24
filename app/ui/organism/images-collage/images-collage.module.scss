@@ -1,0 +1,80 @@
+.imagesContainer {
+  position: absolute;
+  backdrop-filter: blur(4px);
+  overflow: hidden;
+  border-radius: 15px;
+  transition: all 0.5s;
+  &.elContainer {
+    left: 50%;
+    top: 50%;
+    width: 65%;
+    transform: translate(-60%, -50%);
+    z-index: 2;
+    &:hover {
+      transform: scale(1.1) translate(-50%, -50%);
+    }
+  }
+  &.oneContainer {
+    left: 50%;
+    top: 50%;
+    width: 40%;
+    transform: translate(-150%, -35%);
+    z-index: 1;
+    &:hover {
+      transform: scale(1.1) translate(-100%, -35%);
+    }
+  }
+
+  &.twoContainer {
+    left: 50%;
+    top: 50%;
+    width: 22%;
+    transform: translate(35%, -135%);
+    z-index: 3;
+    &:hover {
+      transform: scale(1.1) translate(25%, -135%);
+    }
+  }
+
+  &.threeContainer {
+    left: 50%;
+    top: 50%;
+    width: 22%;
+    transform: translate(55%, 0%);
+    z-index: 3;
+    &:hover {
+      transform: scale(1.1) translate(45%, 0%);
+    }
+  }
+
+  &.fourContainer {
+    left: 50%;
+    top: 50%;
+    width: 34%;
+    transform: translate(-136%, -220%);
+    z-index: 1;
+    &:hover {
+      transform: scale(1.1) translate(-106%, -220%);
+    }
+  }
+
+  &:hover {
+    background-color: rgba(136, 0, 255, 0.733);
+    z-index: 5;
+  }
+}
+
+.images {
+  height: auto;
+  width: 100%;
+}
+
+.blur {
+  filter: blur(5px);
+  transition: filter 0.3s ease-in;
+}
+
+.remove-blur {
+  filter: blur(0px);
+  transition: filter 0.3s ease-in;
+}

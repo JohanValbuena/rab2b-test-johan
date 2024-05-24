@@ -1,0 +1,13 @@
+.title {
+  display: block;
+  margin: 7rem 5% 2.5rem;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+@media (width >= 600px) {
+  .title {
+    font-size: 1.5rem;
+    margin: 8rem 12% 5rem;
+  }
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Optimize operational compliance & efficiency",
+    "list": [
+        {
+            "text": "Easy automate the finding and redacting of personally identifiable information (PII) leveraging propietary pattern matching technology found in our PII scanning software",
+            "color": "white"
+        },
+        {
+            "text": "Easy automate the finding and redacting of personally identifiable information (PII) leveraging propietary pattern matching technology found in our PII scanning software",
+            "color": "white"
+        },
+        {
+            "text": "Easy automate the finding and redacting of personally identifiable information (PII) leveraging propietary pattern matching technology found in our PII scanning software",
+            "color": "white"
+        }
+    ],
+    "images": [
+        {
+            "src": "/images/screen-el.png",
+            "styles": "center",
+            "width": 606,
+            "height": 430,
+            "alt": "center"
+        },
+        {
+            "src": "/images/screen-ui-1.png",
+            "styles": "one",
+            "width": 377,
+            "height": 276,
+            "alt": "one"
+        },
+        {
+            "src": "/images/screen-ui-2.png",
+            "styles": "two",
+            "width": 377,
+            "height": 276,
+            "alt": "two"
+        },
+        {
+            "src": "/images/screen-ui-3.png",
+            "styles": "three",
+            "width": 377,
+            "height": 276,
+            "alt": "three"
+        },
+        {
+            "src": "/images/screen-ui-4.png",
+            "styles": "four",
+            "width": 303,
+            "height": 125,
+            "alt": "four"
+        }
+    ]
+}

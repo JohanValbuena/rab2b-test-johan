@@ -1,0 +1,117 @@
+{
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "cards": [
+        {
+            "icon": "/images/icon-1.png",
+            "width": 111,
+            "height": 111,
+            "alt": "alt one",
+            "title": "Asset Managers",
+            "backText": "Harder",
+            "list": [
+                {
+                    "text": "EPT, EMT, FVPT, CEPT, DCPT and EET"
+                },
+                {
+                    "text": "Article 50 / 60 (MiFID KID)"
+                },
+                {
+                    "text": "PRIIPs KID (UK/EU), UCITS KIID"
+                },
+                {
+                    "text": "Segregated mandates"
+                },
+                {
+                    "text": "Transaction cost-only reporting, including Cost Transparency Initiative (CTI)"
+                },
+                {
+                    "text": "Distribution"
+                }
+            ]
+        },
+        {
+            "icon": "/images/icon-2.png",
+            "width": 111,
+            "height": 111,
+            "alt": "alt two",
+            "title": "Fund Administrators",
+            "backText": "Better",
+            "list": [
+                {
+                    "text": "EPT, EMT, FVPT, CEPT, DCPT and EET"
+                },
+                {
+                    "text": "Article 50 / 60 (MiFID KID)"
+                },
+                {
+                    "text": "PRIIPs KID (UK/EU), UCITS KIID"
+                },
+                {
+                    "text": "Segregated mandates"
+                },
+                {
+                    "text": "Transaction cost-only reporting, including Cost Transparency Initiative (CTI)"
+                },
+                {
+                    "text": "Distribution"
+                }
+            ]
+        },
+        {
+            "icon": "/images/icon-3.png",
+            "width": 111,
+            "height": 111,
+            "alt": "alt three",
+            "title": "Management Companies",
+            "backText": "Stronger",
+            "list": [
+                {
+                    "text": "EPT, EMT, FVPT, CEPT, DCPT and EET"
+                },
+                {
+                    "text": "Article 50 / 60 (MiFID KID)"
+                },
+                {
+                    "text": "PRIIPs KID (UK/EU), UCITS KIID"
+                },
+                {
+                    "text": "Segregated mandates"
+                },
+                {
+                    "text": "Transaction cost-only reporting, including Cost Transparency Initiative (CTI)"
+                },
+                {
+                    "text": "Distribution"
+                }
+            ]
+        },
+        {
+            "icon": "/images/icon-4.png",
+            "width": 111,
+            "height": 111,
+            "alt": "alt four",
+            "title": "Insurance Companies",
+            "backText": "Faster",
+            "list": [
+                {
+                    "text": "EPT, EMT, FVPT, CEPT, DCPT and EET"
+                },
+                {
+                    "text": "Article 50 / 60 (MiFID KID)"
+                },
+                {
+                    "text": "PRIIPs KID (UK/EU), UCITS KIID"
+                },
+                {
+                    "text": "Segregated mandates"
+                },
+                {
+                    "text": "Transaction cost-only reporting, including Cost Transparency Initiative (CTI)"
+                },
+                {
+                    "text": "Distribution"
+                }
+            ]
+        }
+    ]
+}
