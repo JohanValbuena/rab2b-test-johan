@@ -1,4 +1,5 @@
 
+export async function fetchDataModuleOne(){
     try {
         const data = await import('@/app/utils/mocks/page-one.json');
         return data;
