@@ -38,22 +38,22 @@
             "backText": "Better",
             "list": [
                 {
-                    "text": "EPT, EMT, FVPT, CEPT, DCPT and EET"
-                },
-                {
                     "text": "Article 50 / 60 (MiFID KID)"
                 },
                 {
                     "text": "PRIIPs KID (UK/EU), UCITS KIID"
                 },
                 {
+                    "text": "EPT, EMT, FVPT, CEPT, DCPT and EET"
+                },
+                {
                     "text": "Segregated mandates"
                 },
                 {
-                    "text": "Transaction cost-only reporting, including Cost Transparency Initiative (CTI)"
+                    "text": "Distribution"
                 },
                 {
-                    "text": "Distribution"
+                    "text": "Transaction cost-only reporting, including Cost Transparency Initiative (CTI)"
                 }
             ]
         },
@@ -66,22 +66,22 @@
             "backText": "Stronger",
             "list": [
                 {
-                    "text": "EPT, EMT, FVPT, CEPT, DCPT and EET"
-                },
-                {
-                    "text": "Article 50 / 60 (MiFID KID)"
-                },
-                {
                     "text": "PRIIPs KID (UK/EU), UCITS KIID"
                 },
                 {
-                    "text": "Segregated mandates"
+                    "text": "EPT, EMT, FVPT, CEPT, DCPT and EET"
+                },
+                {
+                    "text": "something else"
                 },
                 {
                     "text": "Transaction cost-only reporting, including Cost Transparency Initiative (CTI)"
                 },
                 {
                     "text": "Distribution"
+                },
+                {
+                    "text": "Article 50 / 60 (MiFID KID)"
                 }
             ]
         },
@@ -94,22 +94,22 @@
             "backText": "Faster",
             "list": [
                 {
-                    "text": "EPT, EMT, FVPT, CEPT, DCPT and EET"
+                    "text": "EPT, EMT and EET"
                 },
                 {
                     "text": "Article 50 / 60 (MiFID KID)"
                 },
                 {
+                    "text": "Transaction cost-only reporting."
+                },
+                {
+                    "text": "Something"
+                },
+                {
                     "text": "PRIIPs KID (UK/EU), UCITS KIID"
                 },
                 {
-                    "text": "Segregated mandates"
-                },
-                {
-                    "text": "Transaction cost-only reporting, including Cost Transparency Initiative (CTI)"
-                },
-                {
-                    "text": "Distribution"
+                    "text": "Segregated"
                 }
             ]
         }
